@@ -9,6 +9,8 @@ import 'package:flutter/material.dart';
 
   npm install -g firebase-tools
 
+  FIREBASE LOGIN
+
   flutterfire configure
 
  */
